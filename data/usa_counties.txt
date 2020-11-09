@@ -1,0 +1,3246 @@
+County or equivalent	State or equivalent	Population (2019 estimate)
+Autauga	 Alabama	55,869
+Baldwin	223,234
+Barbour	24,686
+Bibb	22,394
+Blount	57,826
+Bullock	10,101
+Butler	19,448
+Calhoun	113,605
+Chambers	33,254
+Cherokee	26,196
+Chilton	44,428
+Choctaw	12,589
+Clarke	23,622
+Clay	13,235
+Cleburne	14,910
+Coffee	52,342
+Colbert	55,241
+Conecuh	12,067
+Coosa	10,663
+Covington	37,049
+Crenshaw	13,772
+Cullman	83,768
+Dale	49,172
+Dallas	37,196
+DeKalb	71,513
+Elmore	81,209
+Escambia	36,633
+Etowah	102,268
+Fayette	16,302
+Franklin	31,362
+Geneva	26,271
+Greene	8,111
+Hale	14,651
+Henry	17,205
+Houston	105,882
+Jackson	51,626
+Jefferson	658,573
+Lamar	13,805
+Lauderdale	92,729
+Lawrence	32,924
+Lee	164,542
+Limestone	98,915
+Lowndes	9,726
+Macon	18,068
+Madison	372,909
+Marengo	18,863
+Marion	29,709
+Marshall	96,774
+Mobile	413,210
+Monroe	20,733
+Montgomery	226,486
+Morgan	119,679
+Perry	8,923
+Pickens	19,930
+Pike	33,114
+Randolph	22,722
+Russell	57,961
+St. Clair	89,512
+Shelby	217,702
+Sumter	12,427
+Talladega	79,978
+Tallapoosa	40,367
+Tuscaloosa	209,355
+Walker	63,521
+Washington	16,326
+Wilcox	10,373
+Winston	23,629
+Aleutians East Borough[d]	 Alaska	3,337
+Aleutians West Census Area[e]	5,634
+Anchorage, Municipality of[d][f]	288,000
+Bethel Census Area[e]	18,386
+Bristol Bay Borough[d]	836
+Chugach Census Area[e]	6,734
+Copper River Census Area[e]	2,764
+Denali Borough[d]	2,097
+Dillingham Census Area[e]	4,916
+Fairbanks North Star Borough[d]	96,849
+Haines Borough[d]	2,530
+Hoonah–Angoon Census Area[e]	2,148
+Juneau, City and Borough of[d][g]	31,974
+Kenai Peninsula Borough[d]	58,708
+Ketchikan Gateway Borough[d]	13,901
+Kodiak Island Borough[d]	12,998
+Kusilvak Census Area[e]	8,314
+Lake and Peninsula Borough[d]	1,592
+Matanuska-Susitna Borough[d]	108,317
+Nome Census Area[e]	10,004
+North Slope Borough[d]	9,832
+Northwest Arctic Borough[d]	7,621
+Petersburg Borough[d][h]	3,266
+Prince of Wales – Hyder Census Area[e]	6,203
+Sitka, City and Borough of[d][i]	8,493
+Skagway, Municipality of[d]	1,183
+Southeast Fairbanks Census Area[e]	6,893
+Wrangell, City and Borough of[d]	2,502
+Yakutat, City and Borough of[d][j]	579
+Yukon–Koyukuk Census Area[e]	5,230
+Eastern District[12]	 American Samoa	23,030
+Manu'a District[12]	1,143
+Rose Atoll (Rose Island)[12]	0
+Swains Island[12]	17
+Western District[12]	31,329
+Apache	 Arizona	71,887
+Cochise	125,922
+Coconino	143,476
+Gila	54,018
+Graham	38,837
+Greenlee	9,498
+La Paz	21,108
+Maricopa	4,485,414
+Mohave	212,181
+Navajo	110,924
+Pima	1,047,279
+Pinal	462,789
+Santa Cruz	46,498
+Yavapai	235,099
+Yuma	213,787
+Arkansas	 Arkansas	17,486
+Ashley	19,657
+Baxter	41,932
+Benton	279,141
+Boone	37,432
+Bradley	10,763
+Calhoun	5,189
+Carroll	28,380
+Chicot	10,118
+Clark	22,320
+Clay	14,551
+Cleburne	24,919
+Cleveland	7,956
+Columbia	23,457
+Conway	20,846
+Craighead	110,332
+Crawford	63,257
+Crittenden	47,955
+Cross	16,419
+Dallas	7,009
+Desha	11,361
+Drew	18,219
+Faulkner	126,007
+Franklin	17,715
+Fulton	12,477
+Garland	99,386
+Grant	18,265
+Greene	45,325
+Hempstead	21,532
+Hot Spring	33,771
+Howard	13,202
+Independence	37,825
+Izard	13,629
+Jackson	16,719
+Jefferson	66,824
+Johnson	26,578
+Lafayette	6,624
+Lawrence	16,406
+Lee	8,857
+Lincoln	13,024
+Little River	12,259
+Logan	21,466
+Lonoke	73,309
+Madison	16,576
+Marion	16,694
+Miller	43,257
+Mississippi	40,651
+Monroe	6,701
+Montgomery	8,986
+Nevada	8,252
+Newton	7,753
+Ouachita	23,382
+Perry	10,455
+Phillips	17,782
+Pike	10,718
+Poinsett	23,528
+Polk	19,964
+Pope	64,072
+Prairie	8,062
+Pulaski	391,911
+Randolph	17,958
+St. Francis	24,994
+Saline	122,437
+Scott	10,281
+Searcy	7,881
+Sebastian	127,827
+Sevier	17,007
+Sharp	17,442
+Stone	12,506
+Union	38,682
+Van Buren	16,545
+Washington	239,187
+White	78,753
+Woodruff	6,320
+Yell	21,341
+Alameda	 California	1,671,329
+Alpine	1,129
+Amador	39,752
+Butte	219,186
+Calaveras	45,905
+Colusa	21,547
+Contra Costa	1,153,526
+Del Norte	27,812
+El Dorado	192,843
+Fresno	999,101
+Glenn	28,393
+Humboldt	135,558
+Imperial	181,215
+Inyo	18,039
+Kern	900,202
+Kings	152,940
+Lake	64,386
+Lassen	30,573
+Los Angeles	10,039,107
+Madera	157,327
+Marin	258,826
+Mariposa	17,203
+Mendocino	86,749
+Merced	277,680
+Modoc	8,841
+Mono	14,444
+Monterey	434,061
+Napa	137,744
+Nevada	99,755
+Orange	3,175,692
+Placer	398,329
+Plumas	18,807
+Riverside	2,470,546
+Sacramento	1,552,058
+San Benito	62,808
+San Bernardino	2,180,085
+San Diego	3,338,330
+San Francisco, City and County of[k]	881,549
+San Joaquin	762,148
+San Luis Obispo	283,111
+San Mateo	766,573
+Santa Barbara	446,499
+Santa Clara	1,927,852
+Santa Cruz	273,213
+Shasta	180,080
+Sierra	3,005
+Siskiyou	43,539
+Solano	447,643
+Sonoma	494,336
+Stanislaus	550,660
+Sutter	96,971
+Tehama	65,084
+Trinity	12,285
+Tulare	466,195
+Tuolumne	54,478
+Ventura	846,006
+Yolo	220,500
+Yuba	78,668
+Adams	 Colorado	517,421
+Alamosa	16,233
+Arapahoe	656,590
+Archuleta	14,029
+Baca	3,581
+Bent	5,577
+Boulder	326,196
+Broomfield, City and County of[l]	70,465
+Chaffee	20,356
+Cheyenne	1,831
+Clear Creek	9,700
+Conejos	8,205
+Costilla	3,887
+Crowley	6,061
+Custer	5,068
+Delta	31,162
+Denver, City and County of[m]	727,211
+Dolores	2,055
+Douglas	351,154
+Eagle	55,127
+Elbert	26,729
+El Paso	720,403
+Fremont	47,839
+Garfield	60,061
+Gilpin	6,243
+Grand	15,734
+Gunnison	17,462
+Hinsdale	820
+Huerfano	6,897
+Jackson	1,392
+Jefferson	582,881
+Kiowa	1,406
+Kit Carson	7,097
+Lake	8,127
+La Plata	56,221
+Larimer	356,899
+Las Animas	14,506
+Lincoln	5,701
+Logan	22,409
+Mesa	154,210
+Mineral	769
+Moffat	13,283
+Montezuma	26,183
+Montrose	42,758
+Morgan	29,068
+Otero	18,278
+Ouray	4,952
+Park	18,845
+Phillips	4,265
+Pitkin	17,767
+Prowers	12,172
+Pueblo	168,424
+Rio Blanco	6,324
+Rio Grande	11,267
+Routt	25,638
+Saguache	6,824
+San Juan	728
+San Miguel	8,179
+Sedgwick	2,248
+Summit	31,011
+Teller	25,388
+Washington	4,908
+Weld	324,492
+Yuma	10,019
+Fairfield[n]	 Connecticut	943,332
+Hartford[n]	891,720
+Litchfield[n]	180,333
+Middlesex[n]	162,436
+New Haven[n]	854,757
+New London[n]	265,206
+Tolland[n]	150,721
+Windham[n]	116,782
+Kent	 Delaware	180,786
+New Castle	558,753
+Sussex	234,225
+District of Columbia[o]	 District of Columbia	705,749
+Alachua	 Florida	269,043
+Baker	29,210
+Bay	174,705
+Bradford	28,201
+Brevard	601,942
+Broward	1,952,778
+Calhoun	14,105
+Charlotte	188,910
+Citrus	149,657
+Clay	219,252
+Collier	384,902
+Columbia	71,686
+DeSoto	38,001
+Dixie	16,826
+Duval	957,755
+Escambia	318,316
+Flagler	115,081
+Franklin	12,125
+Gadsden	45,660
+Gilchrist	18,582
+Glades	13,811
+Gulf	13,639
+Hamilton	14,428
+Hardee	26,937
+Hendry	42,022
+Hernando	193,920
+Highlands	106,221
+Hillsborough	1,471,968
+Holmes	19,617
+Indian River	159,923
+Jackson	46,414
+Jefferson	14,246
+Lafayette	8,422
+Lake	367,118
+Lee	770,577
+Leon	293,582
+Levy	41,503
+Liberty	8,354
+Madison	18,493
+Manatee	403,253
+Marion	365,579
+Martin	161,000
+Miami-Dade	2,716,940
+Monroe	74,228
+Nassau	88,625
+Okaloosa	210,738
+Okeechobee	42,168
+Orange	1,393,452
+Osceola	375,751
+Palm Beach	1,496,770
+Pasco	553,947
+Pinellas	974,996
+Polk	724,777
+Putnam	74,521
+St. Johns	264,672
+St. Lucie	328,297
+Santa Rosa	184,313
+Sarasota	433,742
+Seminole	471,826
+Sumter	132,420
+Suwannee	44,417
+Taylor	21,569
+Union	15,237
+Volusia	553,284
+Wakulla	33,739
+Walton	74,071
+Washington	25,473
+Appling	Georgia (U.S. state) Georgia	18,386
+Atkinson	8,165
+Bacon	11,164
+Baker	3,038
+Baldwin	44,890
+Banks	19,234
+Barrow	83,240
+Bartow	107,738
+Ben Hill	16,700
+Berrien	19,397
+Bibb	153,159
+Bleckley	12,873
+Brantley	19,109
+Brooks	15,457
+Bryan	39,627
+Bulloch	79,608
+Burke	22,383
+Butts	24,936
+Calhoun	6,189
+Camden	54,666
+Candler	10,803
+Carroll	119,992
+Catoosa	67,580
+Charlton	13,392
+Chatham	289,430
+Chattahoochee	10,907
+Chattooga	24,789
+Cherokee	258,773
+Clarke	128,331
+Clay	3,045
+Clayton	292,256
+Clinch	6,618
+Cobb	760,141
+Coffee	43,273
+Colquitt	45,600
+Columbia	156,714
+Cook	17,270
+Coweta	148,509
+Crawford	12,404
+Crisp	22,372
+Dade	16,116
+Dawson	26,108
+Decatur	26,404
+DeKalb	759,297
+Dodge	20,605
+Dooly	13,390
+Dougherty	87,956
+Douglas	146,343
+Early	10,190
+Echols	4,006
+Effingham	64,296
+Elbert	19,194
+Emanuel	22,646
+Evans	10,654
+Fannin	26,188
+Fayette	114,421
+Floyd	98,498
+Forsyth	244,252
+Franklin	23,349
+Fulton	1,063,937
+Gilmer	31,369
+Glascock	2,971
+Glynn	85,292
+Gordon	57,963
+Grady	24,633
+Greene	18,324
+Gwinnett	936,250
+Habersham	45,328
+Hall	204,441
+Hancock	8,457
+Haralson	29,792
+Harris	35,236
+Hart	26,205
+Heard	11,923
+Henry	234,561
+Houston	157,863
+Irwin	9,416
+Jackson	72,977
+Jasper	14,219
+Jeff Davis	15,115
+Jefferson	15,362
+Jenkins	8,676
+Johnson	9,643
+Jones	28,735
+Lamar	19,077
+Lanier	10,423
+Laurens	47,546
+Lee	29,992
+Liberty	61,435
+Lincoln	7,921
+Long	19,559
+Lowndes	117,406
+Lumpkin	33,610
+McDuffie	21,312
+McIntosh	14,378
+Macon	12,947
+Madison	29,880
+Marion	8,359
+Meriwether	21,167
+Miller	5,718
+Mitchell	21,863
+Monroe	27,578
+Montgomery	9,172
+Morgan	19,276
+Murray	40,096
+Muscogee	195,769
+Newton	111,744
+Oconee	40,280
+Oglethorpe	15,259
+Paulding	168,667
+Peach	27,546
+Pickens	32,591
+Pierce	19,465
+Pike	18,962
+Polk	42,613
+Pulaski	11,137
+Putnam	22,119
+Quitman	2,299
+Rabun	17,137
+Randolph	6,778
+Richmond	202,518
+Rockdale	90,896
+Schley	5,257
+Screven	13,966
+Seminole	8,090
+Spalding	66,703
+Stephens	25,925
+Stewart	6,621
+Sumter	29,524
+Talbot	6,195
+Taliaferro	1,537
+Tattnall	25,286
+Taylor	8,020
+Telfair	15,860
+Terrell	8,531
+Thomas	44,451
+Tift	40,644
+Toombs	26,830
+Towns	12,037
+Treutlen	6,901
+Troup	69,922
+Turner	7,985
+Twiggs	8,120
+Union	24,511
+Upson	26,320
+Walker	69,761
+Walton	94,593
+Ware	35,734
+Warren	5,254
+Washington	20,374
+Wayne	29,927
+Webster	2,607
+Wheeler	7,855
+White	30,798
+Whitfield	104,628
+Wilcox	8,635
+Wilkes	9,777
+Wilkinson	8,954
+Worth	20,247
+Guam[9]	 Guam	162,742
+Hawaii	Hawaii Hawaiʻi	201,513
+Honolulu, City and County of[p]	974,563
+Kalawao	86
+Kauai	72,293
+Maui	167,417
+Ada	 Idaho	481,587
+Adams	4,294
+Bannock	87,808
+Bear Lake	6,125
+Benewah	9,298
+Bingham	46,811
+Blaine	23,021
+Boise	7,831
+Bonner	45,739
+Bonneville	119,062
+Boundary	12,245
+Butte	2,597
+Camas	1,106
+Canyon	229,849
+Caribou	7,155
+Cassia	24,030
+Clark	845
+Clearwater	8,756
+Custer	4,315
+Elmore	27,511
+Franklin	13,876
+Fremont	13,099
+Gem	18,112
+Gooding	15,179
+Idaho	16,667
+Jefferson	29,871
+Jerome	24,412
+Kootenai	165,697
+Latah	40,108
+Lemhi	8,027
+Lewis	3,838
+Lincoln	5,366
+Madison	39,907
+Minidoka	21,039
+Nez Perce	40,408
+Oneida	4,531
+Owyhee	11,823
+Payette	23,951
+Power	7,681
+Shoshone	12,882
+Teton	12,142
+Twin Falls	86,878
+Valley	11,392
+Washington	10,194
+Adams	 Illinois	65,435
+Alexander	5,761
+Bond	16,426
+Boone	53,544
+Brown	6,578
+Bureau	32,628
+Calhoun	4,739
+Carroll	14,305
+Cass	12,147
+Champaign	209,689
+Christian	32,304
+Clark	15,441
+Clay	13,184
+Clinton	37,562
+Coles	50,621
+Cook	5,150,233
+Crawford	18,667
+Cumberland	10,766
+DeKalb	104,897
+De Witt	15,638
+Douglas	19,465
+DuPage	922,921
+Edgar	17,161
+Edwards	6,395
+Effingham	34,008
+Fayette	21,336
+Ford	12,961
+Franklin	38,469
+Fulton	34,340
+Gallatin	4,828
+Greene	12,969
+Grundy	51,054
+Hamilton	8,116
+Hancock	17,708
+Hardin	3,821
+Henderson	6,646
+Henry	48,913
+Iroquois	27,114
+Jackson	56,750
+Jasper	9,610
+Jefferson	37,684
+Jersey	21,773
+Jo Daviess	21,235
+Johnson	12,417
+Kane	532,403
+Kankakee	109,862
+Kendall	128,990
+Knox	49,699
+Lake	696,535
+LaSalle	108,669
+Lawrence	15,678
+Lee	34,096
+Livingston	35,648
+Logan	28,618
+McDonough	29,682
+McHenry	307,774
+McLean	171,517
+Macon	104,009
+Macoupin	44,926
+Madison	262,966
+Marion	37,205
+Marshall	11,438
+Mason	13,359
+Massac	13,772
+Menard	12,196
+Mercer	15,437
+Monroe	34,637
+Montgomery	28,414
+Morgan	33,658
+Moultrie	14,501
+Ogle	50,643
+Peoria	179,179
+Perry	20,916
+Piatt	16,344
+Pike	15,561
+Pope	4,177
+Pulaski	5,335
+Putnam	5,739
+Randolph	31,782
+Richland	15,513
+Rock Island	141,879
+St. Clair	259,686
+Saline	23,491
+Sangamon	194,672
+Schuyler	6,768
+Scott	4,951
+Shelby	21,634
+Stark	5,342
+Stephenson	44,498
+Tazewell	131,803
+Union	16,653
+Vermilion	75,758
+Wabash	11,520
+Warren	16,844
+Washington	13,887
+Wayne	16,215
+White	13,537
+Whiteside	55,175
+Will	690,743
+Williamson	66,597
+Winnebago	282,572
+Woodford	38,459
+Adams	 Indiana	35,777
+Allen	379,299
+Bartholomew	83,779
+Benton	8,748
+Blackford	11,758
+Boone	67,843
+Brown	15,092
+Carroll	20,257
+Cass	37,689
+Clark	118,302
+Clay	26,225
+Clinton	32,399
+Crawford	10,577
+Daviess	33,351
+Dearborn	49,458
+Decatur	26,559
+DeKalb	43,475
+Delaware	114,135
+Dubois	42,736
+Elkhart	206,341
+Fayette	23,102
+Floyd	78,522
+Fountain	16,346
+Franklin	22,758
+Fulton	19,974
+Gibson	33,659
+Grant	65,769
+Greene	31,922
+Hamilton	338,011
+Hancock	78,168
+Harrison	40,515
+Hendricks	170,311
+Henry	47,972
+Howard	82,544
+Huntington	36,520
+Jackson	44,231
+Jasper	33,562
+Jay	20,436
+Jefferson	32,308
+Jennings	27,735
+Johnson	158,167
+Knox	36,594
+Kosciusko	79,456
+LaGrange	39,614
+Lake	485,493
+LaPorte	109,888
+Lawrence	45,370
+Madison	129,569
+Marion	964,582
+Marshall	46,258
+Martin	10,255
+Miami	35,516
+Monroe	148,431
+Montgomery	38,338
+Morgan	70,489
+Newton	13,984
+Noble	47,744
+Ohio	5,875
+Orange	19,646
+Owen	20,799
+Parke	16,937
+Perry	19,169
+Pike	12,389
+Porter	170,389
+Posey	25,427
+Pulaski	12,353
+Putnam	37,576
+Randolph	24,665
+Ripley	28,324
+Rush	16,581
+St. Joseph	271,826
+Scott	23,873
+Shelby	44,729
+Spencer	20,277
+Starke	22,995
+Steuben	34,594
+Sullivan	20,669
+Switzerland	10,751
+Tippecanoe	195,732
+Tipton	15,148
+Union	7,054
+Vanderburgh	181,451
+Vermillion	15,498
+Vigo	107,038
+Wabash	30,996
+Warren	8,265
+Warrick	62,998
+Washington	28,036
+Wayne	65,884
+Wells	28,296
+White	24,102
+Whitley	33,964
+Adair	 Iowa	7,152
+Adams	3,602
+Allamakee	13,687
+Appanoose	12,426
+Audubon	5,496
+Benton	25,645
+Black Hawk	131,228
+Boone	26,234
+Bremer	25,062
+Buchanan	21,175
+Buena Vista	19,620
+Butler	14,439
+Calhoun	9,668
+Carroll	20,165
+Cass	12,836
+Cedar	18,627
+Cerro Gordo	42,450
+Cherokee	11,235
+Chickasaw	11,933
+Clarke	9,395
+Clay	16,016
+Clayton	17,549
+Clinton	46,429
+Crawford	16,820
+Dallas	93,453
+Davis	9,000
+Decatur	7,870
+Delaware	17,011
+Des Moines	38,967
+Dickinson	17,258
+Dubuque	97,311
+Emmet	9,208
+Fayette	19,650
+Floyd	15,642
+Franklin	10,070
+Fremont	6,960
+Greene	8,888
+Grundy	12,232
+Guthrie	10,689
+Hamilton	14,773
+Hancock	10,630
+Hardin	16,846
+Harrison	14,049
+Henry	19,954
+Howard	9,158
+Humboldt	9,558
+Ida	6,860
+Iowa	16,184
+Jackson	19,439
+Jasper	37,185
+Jefferson	18,295
+Johnson	151,140
+Jones	20,681
+Keokuk	10,246
+Kossuth	14,813
+Lee	33,657
+Linn	226,706
+Louisa	11,035
+Lucas	8,600
+Lyon	11,755
+Madison	16,338
+Mahaska	22,095
+Marion	33,253
+Marshall	39,369
+Mills	15,109
+Mitchell	10,586
+Monona	8,615
+Monroe	7,707
+Montgomery	9,917
+Muscatine	42,664
+O'Brien	13,753
+Osceola	5,958
+Page	15,107
+Palo Alto	8,886
+Plymouth	25,177
+Pocahontas	6,619
+Polk	490,161
+Pottawattamie	93,206
+Poweshiek	18,504
+Ringgold	4,894
+Sac	9,721
+Scott	172,943
+Shelby	11,454
+Sioux	34,855
+Story	97,117
+Tama	16,854
+Taylor	6,121
+Union	12,241
+Van Buren	7,044
+Wapello	34,969
+Warren	51,466
+Washington	21,965
+Wayne	6,441
+Webster	35,904
+Winnebago	10,354
+Winneshiek	19,991
+Woodbury	103,107
+Worth	7,381
+Wright	12,562
+Allen	 Kansas	12,369
+Anderson	7,858
+Atchison	16,073
+Barber	4,427
+Barton	25,779
+Bourbon	14,534
+Brown	9,564
+Butler	66,911
+Chase	2,648
+Chautauqua	3,250
+Cherokee	19,939
+Cheyenne	2,657
+Clark	1,994
+Clay	8,002
+Cloud	8,786
+Coffey	8,179
+Comanche	1,700
+Cowley	34,908
+Crawford	38,818
+Decatur	2,827
+Dickinson	18,466
+Doniphan	7,600
+Douglas	122,259
+Edwards	2,798
+Elk	2,530
+Ellis	28,553
+Ellsworth	6,102
+Finney	36,467
+Ford	33,619
+Franklin	25,544
+Geary	31,670
+Gove	2,636
+Graham	2,482
+Grant	7,150
+Gray	5,988
+Greeley	1,232
+Greenwood	5,982
+Hamilton	2,539
+Harper	5,436
+Harvey	34,429
+Haskell	3,968
+Hodgeman	1,794
+Jackson	13,171
+Jefferson	19,043
+Jewell	2,879
+Johnson	602,401
+Kearny	3,838
+Kingman	7,152
+Kiowa	2,475
+Labette	19,618
+Lane	1,535
+Leavenworth	81,758
+Lincoln	2,962
+Linn	9,703
+Logan	2,794
+Lyon	33,195
+McPherson	28,542
+Marion	11,884
+Marshall	9,707
+Meade	4,033
+Miami	34,237
+Mitchell	5,979
+Montgomery	31,829
+Morris	5,620
+Morton	2,587
+Nemaha	10,231
+Neosho	16,007
+Ness	2,750
+Norton	5,361
+Osage	15,949
+Osborne	3,421
+Ottawa	5,704
+Pawnee	6,414
+Phillips	5,234
+Pottawatomie	24,383
+Pratt	9,164
+Rawlins	2,530
+Reno	61,998
+Republic	4,636
+Rice	9,537
+Riley	74,232
+Rooks	4,920
+Rush	3,036
+Russell	6,856
+Saline	54,224
+Scott	4,823
+Sedgwick	516,042
+Seward	21,428
+Shawnee	176,875
+Sheridan	2,521
+Sherman	5,917
+Smith	3,583
+Stafford	4,156
+Stanton	2,006
+Stevens	5,485
+Sumner	22,836
+Thomas	7,777
+Trego	2,803
+Wabaunsee	6,931
+Wallace	1,518
+Washington	5,406
+Wichita	2,119
+Wilson	8,525
+Woodson	3,138
+Wyandotte	165,429
+Adair	 Kentucky	19,202
+Allen	21,315
+Anderson	22,747
+Ballard	7,888
+Barren	44,249
+Bath	12,500
+Bell	26,032
+Boone	133,581
+Bourbon	19,788
+Boyd	46,718
+Boyle	30,060
+Bracken	8,303
+Breathitt	12,630
+Breckinridge	20,477
+Bullitt	81,676
+Butler	12,879
+Caldwell	12,747
+Calloway	39,001
+Campbell	93,584
+Carlisle	4,760
+Carroll	10,631
+Carter	26,797
+Casey	16,159
+Christian	70,461
+Clark	36,263
+Clay	19,901
+Clinton	10,218
+Crittenden	8,806
+Cumberland	6,614
+Daviess	101,511
+Edmonson	12,150
+Elliott	7,517
+Estill	14,106
+Fayette	323,152
+Fleming	14,581
+Floyd	35,589
+Franklin	50,991
+Fulton	5,969
+Gallatin	8,869
+Garrard	17,666
+Grant	25,069
+Graves	37,266
+Grayson	26,427
+Green	10,941
+Greenup	35,098
+Hancock	8,722
+Hardin	110,958
+Harlan	26,010
+Harrison	18,886
+Hart	19,035
+Henderson	45,210
+Henry	16,126
+Hickman	4,380
+Hopkins	44,686
+Jackson	13,329
+Jefferson	766,757
+Jessamine	54,115
+Johnson	22,188
+Kenton	166,998
+Knott	14,806
+Knox	31,145
+LaRue	14,398
+Laurel	60,813
+Lawrence	15,317
+Lee	7,403
+Leslie	9,877
+Letcher	21,553
+Lewis	13,275
+Lincoln	24,549
+Livingston	9,194
+Logan	27,102
+Lyon	8,210
+McCracken	65,418
+McCreary	17,231
+McLean	9,207
+Madison	92,987
+Magoffin	12,161
+Marion	19,273
+Marshall	31,100
+Martin	11,195
+Mason	17,070
+Meade	28,572
+Menifee	6,489
+Mercer	21,933
+Metcalfe	10,071
+Monroe	10,650
+Montgomery	28,157
+Morgan	13,309
+Muhlenberg	30,622
+Nelson	46,233
+Nicholas	7,269
+Ohio	23,994
+Oldham	66,799
+Owen	10,901
+Owsley	4,415
+Pendleton	14,590
+Perry	25,758
+Pike	57,876
+Powell	12,359
+Pulaski	64,979
+Robertson	2,108
+Rockcastle	16,695
+Rowan	24,460
+Russell	17,923
+Scott	57,004
+Shelby	49,024
+Simpson	18,572
+Spencer	19,351
+Taylor	25,769
+Todd	12,294
+Trigg	14,651
+Trimble	8,471
+Union	14,381
+Warren	132,896
+Washington	12,095
+Wayne	20,333
+Webster	12,942
+Whitley	36,264
+Wolfe	7,157
+Woodford	26,734
+Acadia Parish	 Louisiana	62,045
+Allen Parish	25,627
+Ascension Parish	126,604
+Assumption Parish	21,891
+Avoyelles Parish	40,144
+Beauregard Parish	37,497
+Bienville Parish	13,241
+Bossier Parish	127,039
+Caddo Parish	240,204
+Calcasieu Parish	203,436
+Caldwell Parish	9,918
+Cameron Parish	6,973
+Catahoula Parish	9,494
+Claiborne Parish	15,670
+Concordia Parish	19,259
+De Soto Parish	27,463
+East Baton Rouge Parish	440,059
+East Carroll Parish	6,861
+East Feliciana Parish	19,135
+Evangeline Parish	33,395
+Franklin Parish	20,015
+Grant Parish	22,389
+Iberia Parish	69,830
+Iberville Parish	32,511
+Jackson Parish	15,744
+Jefferson Parish	432,493
+Jefferson Davis Parish	31,368
+Lafayette Parish	244,390
+Lafourche Parish	97,614
+LaSalle Parish	14,892
+Lincoln Parish	46,742
+Livingston Parish	140,789
+Madison Parish	10,951
+Morehouse Parish	24,874
+Natchitoches Parish	38,158
+Orleans Parish[q]	390,144
+Ouachita Parish	153,279
+Plaquemines Parish	23,197
+Pointe Coupee Parish	21,730
+Rapides Parish	129,648
+Red River Parish	8,442
+Richland Parish	20,122
+Sabine Parish	23,884
+St. Bernard Parish	47,244
+St. Charles Parish	53,100
+St. Helena Parish	10,132
+St. James Parish	21,096
+St. John the Baptist Parish	42,837
+St. Landry Parish	82,124
+St. Martin Parish	53,431
+St. Mary Parish	49,348
+St. Tammany Parish	260,419
+Tangipahoa Parish	134,758
+Tensas Parish	4,334
+Terrebonne Parish	110,461
+Union Parish	22,108
+Vermilion Parish	59,511
+Vernon Parish	47,429
+Washington Parish	46,194
+Webster Parish	38,340
+West Baton Rouge Parish	26,465
+West Carroll Parish	10,830
+West Feliciana Parish	15,568
+Winn Parish	13,904
+Androscoggin	 Maine	108,277
+Aroostook	67,055
+Cumberland	295,003
+Franklin	30,199
+Hancock	54,987
+Kennebec	122,302
+Knox	39,772
+Lincoln	34,634
+Oxford	57,975
+Penobscot	152,148
+Piscataquis	16,785
+Sagadahoc	35,856
+Somerset	50,484
+Waldo	39,715
+Washington	31,379
+York	207,641
+Allegany	 Maryland	70,416
+Anne Arundel	579,234
+Baltimore	827,370
+Calvert	92,525
+Caroline	33,406
+Carroll	168,447
+Cecil	102,855
+Charles	163,257
+Dorchester	31,929
+Frederick	259,547
+Garrett	29,014
+Harford	255,441
+Howard	325,690
+Kent	19,422
+Montgomery	1,050,688
+Prince George's	909,327
+Queen Anne's	50,381
+St. Mary's	113,510
+Somerset	25,616
+Talbot	37,181
+Washington	151,049
+Wicomico	103,609
+Worcester	52,276
+Baltimore City[r]	593,490
+Barnstable	 Massachusetts	212,990
+Berkshire[n]	124,944
+Bristol	565,217
+Dukes	17,332
+Essex[n]	789,034
+Franklin[n]	70,180
+Hampden[n]	466,372
+Hampshire[n]	160,830
+Middlesex[n]	1,611,699
+Nantucket, Town and County of[s]	11,399
+Norfolk	706,775
+Plymouth	521,202
+Suffolk[n]	803,907
+Worcester[n]	830,622
+Alcona	 Michigan	10,405
+Alger	9,108
+Allegan	118,081
+Alpena	28,405
+Antrim	23,324
+Arenac	14,883
+Baraga	8,209
+Barry	61,550
+Bay	103,126
+Benzie	17,766
+Berrien	153,401
+Branch	43,517
+Calhoun	134,159
+Cass	51,787
+Charlevoix	26,143
+Cheboygan	25,276
+Chippewa	37,349
+Clare	30,950
+Clinton	79,595
+Crawford	14,029
+Delta	35,784
+Dickinson	25,239
+Eaton	110,268
+Emmet	33,415
+Genesee	405,813
+Gladwin	25,449
+Gogebic	13,975
+Grand Traverse	93,088
+Gratiot	40,711
+Hillsdale	45,605
+Houghton	35,684
+Huron	30,981
+Ingham	292,406
+Ionia	64,697
+Iosco	25,127
+Iron	11,066
+Isabella	69,872
+Jackson	158,510
+Kalamazoo	265,066
+Kalkaska	18,038
+Kent	656,955
+Keweenaw	2,116
+Lake	11,853
+Lapeer	87,607
+Leelanau	21,761
+Lenawee	98,451
+Livingston	191,995
+Luce	6,229
+Mackinac	10,799
+Macomb	873,972
+Manistee	24,558
+Marquette	66,699
+Mason	29,144
+Mecosta	43,453
+Menominee	22,780
+Midland	83,156
+Missaukee	15,118
+Monroe	150,500
+Montcalm	63,888
+Montmorency	9,328
+Muskegon	173,566
+Newaygo	48,980
+Oakland	1,257,584
+Oceana	26,467
+Ogemaw	20,997
+Ontonagon	5,720
+Osceola	23,460
+Oscoda	8,241
+Otsego	24,668
+Ottawa	291,830
+Presque Isle	12,592
+Roscommon	24,019
+Saginaw	190,539
+St. Clair	159,128
+St. Joseph	60,964
+Sanilac	41,170
+Schoolcraft	8,094
+Shiawassee	68,122
+Tuscola	52,245
+Van Buren	75,677
+Washtenaw	367,601
+Wayne	1,749,343
+Wexford	33,631
+Aitkin	 Minnesota	15,886
+Anoka	356,921
+Becker	34,423
+Beltrami	47,188
+Benton	40,889
+Big Stone	4,991
+Blue Earth	67,653
+Brown	25,008
+Carlton	35,871
+Carver	105,089
+Cass	29,779
+Chippewa	11,800
+Chisago	56,579
+Clay	64,222
+Clearwater	8,818
+Cook	5,463
+Cottonwood	11,196
+Crow Wing	65,055
+Dakota	429,021
+Dodge	20,934
+Douglas	38,141
+Faribault	13,653
+Fillmore	21,067
+Freeborn	30,281
+Goodhue	46,340
+Grant	5,972
+Hennepin	1,265,843
+Houston	18,600
+Hubbard	21,491
+Isanti	40,596
+Itasca	45,130
+Jackson	9,846
+Kanabec	16,337
+Kandiyohi	43,199
+Kittson	4,298
+Koochiching	12,229
+Lac qui Parle	6,623
+Lake	10,641
+Lake of the Woods	3,740
+Le Sueur	28,887
+Lincoln	5,639
+Lyon	25,474
+McLeod	35,893
+Mahnomen	5,527
+Marshall	9,336
+Martin	19,683
+Meeker	23,222
+Mille Lacs	26,277
+Morrison	33,386
+Mower	40,062
+Murray	8,194
+Nicollet	34,274
+Nobles	21,629
+Norman	6,375
+Olmsted	158,293
+Otter Tail	58,746
+Pennington	14,119
+Pine	29,579
+Pipestone	9,126
+Polk	31,364
+Pope	11,249
+Ramsey	550,321
+Red Lake	4,055
+Redwood	15,170
+Renville	14,548
+Rice	66,972
+Rock	9,315
+Roseau	15,165
+St. Louis	199,070
+Scott	149,013
+Sherburne	97,238
+Sibley	14,865
+Stearns	161,075
+Steele	36,649
+Stevens	9,805
+Swift	9,266
+Todd	24,664
+Traverse	3,259
+Wabasha	21,627
+Wadena	13,682
+Waseca	18,612
+Washington	262,440
+Watonwan	10,897
+Wilkin	6,207
+Winona	50,484
+Wright	138,377
+Yellow Medicine	9,709
+Adams	 Mississippi	30,693
+Alcorn	36,953
+Amite	12,297
+Attala	18,174
+Benton	8,259
+Bolivar	30,628
+Calhoun	14,361
+Carroll	9,947
+Chickasaw	17,103
+Choctaw	8,210
+Claiborne	8,988
+Clarke	15,541
+Clay	19,316
+Coahoma	22,124
+Copiah	28,065
+Covington	18,636
+DeSoto	184,945
+Forrest	74,897
+Franklin	7,713
+George	24,500
+Greene	13,586
+Grenada	20,758
+Hancock	47,632
+Harrison	208,080
+Hinds	231,840
+Holmes	17,010
+Humphreys	8,064
+Issaquena	1,327
+Itawamba	23,390
+Jackson	143,617
+Jasper	16,383
+Jefferson	6,990
+Jefferson Davis	11,128
+Jones	68,098
+Kemper	9,742
+Lafayette	54,019
+Lamar	63,343
+Lauderdale	74,125
+Lawrence	12,586
+Leake	22,786
+Lee	85,436
+Leflore	28,183
+Lincoln	34,153
+Lowndes	58,595
+Madison	106,272
+Marion	24,573
+Marshall	35,294
+Monroe	35,252
+Montgomery	9,775
+Neshoba	29,118
+Newton	21,018
+Noxubee	10,417
+Oktibbeha	49,587
+Panola	34,192
+Pearl River	55,535
+Perry	11,973
+Pike	39,288
+Pontotoc	32,174
+Prentiss	25,126
+Quitman	6,792
+Rankin	155,271
+Scott	28,124
+Sharkey	4,321
+Simpson	26,658
+Smith	15,916
+Stone	18,336
+Sunflower	25,110
+Tallahatchie	13,809
+Tate	28,321
+Tippah	22,015
+Tishomingo	19,383
+Tunica	9,632
+Union	28,815
+Walthall	14,286
+Warren	45,381
+Washington	43,909
+Wayne	20,183
+Webster	9,689
+Wilkinson	8,630
+Winston	17,955
+Yalobusha	12,108
+Yazoo	29,690
+Adair	 Missouri	25,343
+Andrew	17,712
+Atchison	5,143
+Audrain	25,388
+Barry	35,789
+Barton	11,754
+Bates	16,172
+Benton	19,443
+Bollinger	12,133
+Boone	180,463
+Buchanan	87,364
+Butler	42,478
+Caldwell	9,020
+Callaway	44,743
+Camden	46,305
+Cape Girardeau	78,871
+Carroll	8,679
+Carter	5,982
+Cass	105,780
+Cedar	14,349
+Chariton	7,426
+Christian	88,595
+Clark	6,797
+Clay	249,948
+Clinton	20,387
+Cole	76,745
+Cooper	17,709
+Crawford	23,920
+Dade	7,561
+Dallas	16,878
+Daviess	8,278
+DeKalb	12,547
+Dent	15,573
+Douglas	13,185
+Dunklin	29,131
+Franklin	103,967
+Gasconade	14,706
+Gentry	6,571
+Greene	293,086
+Grundy	9,850
+Harrison	8,352
+Henry	21,824
+Hickory	9,544
+Holt	4,403
+Howard	10,001
+Howell	40,117
+Iron	10,125
+Jackson	703,011
+Jasper	121,328
+Jefferson	225,081
+Johnson	54,062
+Knox	3,959
+Laclede	35,723
+Lafayette	32,708
+Lawrence	38,355
+Lewis	9,776
+Lincoln	59,013
+Linn	11,920
+Livingston	15,227
+McDonald	22,837
+Macon	15,117
+Madison	12,088
+Maries	8,697
+Marion	28,530
+Mercer	3,617
+Miller	25,619
+Mississippi	13,180
+Moniteau	16,132
+Monroe	8,644
+Montgomery	11,551
+Morgan	20,627
+New Madrid	17,076
+Newton	58,236
+Nodaway	22,092
+Oregon	10,529
+Osage	13,615
+Ozark	9,174
+Pemiscot	15,805
+Perry	19,136
+Pettis	42,339
+Phelps	44,573
+Pike	18,302
+Platte	104,418
+Polk	32,149
+Pulaski	52,607
+Putnam	4,696
+Ralls	10,309
+Randolph	24,748
+Ray	23,018
+Reynolds	6,270
+Ripley	13,288
+St. Charles	402,022
+St. Clair	9,397
+Ste. Genevieve	17,894
+St. Francois	67,215
+St. Louis	994,205
+Saline	22,761
+Schuyler	4,660
+Scotland	4,902
+Scott	38,280
+Shannon	8,166
+Shelby	5,930
+Stoddard	29,025
+Stone	31,952
+Sullivan	6,089
+Taney	55,928
+Texas	25,398
+Vernon	20,563
+Warren	35,649
+Washington	24,730
+Wayne	12,873
+Webster	39,592
+Worth	2,013
+Wright	18,289
+St. Louis, City of[t]	300,576
+Beaverhead	 Montana	9,453
+Big Horn	13,319
+Blaine	6,681
+Broadwater	6,237
+Carbon	10,725
+Carter	1,252
+Cascade	81,366
+Chouteau	5,635
+Custer	11,402
+Daniels	1,690
+Dawson	8,613
+Deer Lodge	9,140
+Fallon	2,846
+Fergus	11,050
+Flathead	103,806
+Gallatin	114,434
+Garfield	1,258
+Glacier	13,753
+Golden Valley	821
+Granite	3,379
+Hill	16,484
+Jefferson	12,221
+Judith Basin	2,007
+Lake	30,458
+Lewis and Clark	69,432
+Liberty	2,337
+Lincoln	19,980
+McCone	1,664
+Madison	8,600
+Meagher	1,862
+Mineral	4,397
+Missoula	119,600
+Musselshell	4,633
+Park	16,606
+Petroleum	487
+Phillips	3,954
+Pondera	5,911
+Powder River	1,682
+Powell	6,890
+Prairie	1,077
+Ravalli	43,806
+Richland	10,803
+Roosevelt	11,004
+Rosebud	8,937
+Sanders	12,113
+Sheridan	3,309
+Silver Bow	34,915
+Stillwater	9,642
+Sweet Grass	3,737
+Teton	6,147
+Toole	4,736
+Treasure	696
+Valley	7,396
+Wheatland	2,126
+Wibaux	969
+Yellowstone	161,300
+Adams	 Nebraska	31,363
+Antelope	6,298
+Arthur	463
+Banner	745
+Blaine	465
+Boone	5,192
+Box Butte	10,783
+Boyd	1,919
+Brown	2,955
+Buffalo	49,659
+Burt	6,459
+Butler	8,016
+Cass	26,248
+Cedar	8,402
+Chase	3,924
+Cherry	5,689
+Cheyenne	8,910
+Clay	6,203
+Colfax	10,709
+Cuming	8,846
+Custer	10,777
+Dakota	20,026
+Dawes	8,589
+Dawson	23,595
+Deuel	1,794
+Dixon	5,636
+Dodge	36,565
+Douglas	571,327
+Dundy	1,693
+Fillmore	5,462
+Franklin	2,979
+Frontier	2,627
+Furnas	4,676
+Gage	21,513
+Garden	1,837
+Garfield	1,969
+Gosper	1,990
+Grant	623
+Greeley	2,356
+Hall	61,353
+Hamilton	9,324
+Harlan	3,380
+Hayes	922
+Hitchcock	2,762
+Holt	10,067
+Hooker	682
+Howard	6,445
+Jefferson	7,046
+Johnson	5,071
+Kearney	6,495
+Keith	8,034
+Keya Paha	806
+Kimball	3,632
+Knox	8,332
+Lancaster	319,090
+Lincoln	34,914
+Logan	748
+Loup	664
+McPherson	494
+Madison	35,099
+Merrick	7,755
+Morrill	4,642
+Nance	3,519
+Nemaha	6,972
+Nuckolls	4,148
+Otoe	16,012
+Pawnee	2,613
+Perkins	2,891
+Phelps	9,034
+Pierce	7,148
+Platte	33,470
+Polk	5,213
+Red Willow	10,724
+Richardson	7,865
+Rock	1,357
+Saline	14,224
+Sarpy	187,196
+Saunders	21,578
+Scotts Bluff	35,618
+Seward	17,284
+Sheridan	5,246
+Sherman	3,001
+Sioux	1,166
+Stanton	5,920
+Thayer	5,003
+Thomas	722
+Thurston	7,224
+Valley	4,158
+Washington	20,729
+Wayne	9,385
+Webster	3,487
+Wheeler	783
+York	13,679
+Churchill	 Nevada	24,909
+Clark	2,266,715
+Douglas	48,905
+Elko	52,778
+Esmeralda	873
+Eureka	2,029
+Humboldt	16,831
+Lander	5,532
+Lincoln	5,183
+Lyon	57,510
+Mineral	4,505
+Nye	46,523
+Pershing	6,725
+Storey	4,123
+Washoe	471,519
+White Pine	9,580
+Carson City, Consolidated Municipality of[u]	55,916
+Belknap	 New Hampshire	61,303
+Carroll	48,910
+Cheshire	76,085
+Coos	31,563
+Grafton	89,886
+Hillsborough	417,025
+Merrimack	151,391
+Rockingham	309,769
+Strafford	130,633
+Sullivan	43,146
+Atlantic	 New Jersey	263,670
+Bergen	932,202
+Burlington	445,349
+Camden	506,471
+Cape May	92,039
+Cumberland	149,527
+Essex	798,975
+Gloucester	291,636
+Hudson	672,391
+Hunterdon	124,371
+Mercer	367,430
+Middlesex	825,062
+Monmouth	618,795
+Morris	491,845
+Ocean	607,186
+Passaic	501,826
+Salem	62,385
+Somerset	328,934
+Sussex	140,488
+Union	556,341
+Warren	105,267
+Bernalillo	 New Mexico	679,121
+Catron	3,527
+Chaves	64,615
+Cibola	26,675
+Colfax	11,941
+Curry	48,954
+De Baca	1,748
+Doña Ana	218,195
+Eddy	58,460
+Grant	26,998
+Guadalupe	4,300
+Harding	625
+Hidalgo	4,198
+Lea	71,070
+Lincoln	19,572
+Los Alamos[v]	19,369
+Luna	23,709
+McKinley	71,367
+Mora	4,521
+Otero	67,490
+Quay	8,253
+Rio Arriba	38,921
+Roosevelt	18,500
+Sandoval	146,748
+San Juan	123,958
+San Miguel	27,277
+Santa Fe	150,358
+Sierra	10,791
+Socorro	16,637
+Taos	32,723
+Torrance	15,461
+Union	4,059
+Valencia	76,688
+Albany	New York (state) New York	305,506
+Allegany	46,091
+Bronx	1,418,207
+Broome	190,488
+Cattaraugus	76,117
+Cayuga	76,576
+Chautauqua	126,903
+Chemung	83,456
+Chenango	47,207
+Clinton	80,485
+Columbia	59,461
+Cortland	47,581
+Delaware	44,135
+Dutchess	294,218
+Erie	918,702
+Essex	36,885
+Franklin	50,022
+Fulton	53,383
+Genesee	57,280
+Greene	47,188
+Hamilton	4,416
+Herkimer	61,319
+Jefferson	109,834
+Kings	2,559,903
+Lewis	26,296
+Livingston	62,914
+Madison	70,941
+Monroe	741,770
+Montgomery	49,221
+Nassau	1,356,924
+New York	1,628,706
+Niagara	209,281
+Oneida	228,671
+Onondaga	460,528
+Ontario	109,777
+Orange	384,940
+Orleans	40,352
+Oswego	117,124
+Otsego	59,493
+Putnam	98,320
+Queens	2,253,858
+Rensselaer	158,714
+Richmond	476,143
+Rockland	325,789
+St. Lawrence	107,740
+Saratoga	229,863
+Schenectady	155,299
+Schoharie	30,999
+Schuyler	17,807
+Seneca	34,016
+Steuben	95,379
+Suffolk	1,476,601
+Sullivan	75,432
+Tioga	48,203
+Tompkins	102,180
+Ulster	177,573
+Warren	63,944
+Washington	61,204
+Wayne	89,918
+Westchester	967,506
+Wyoming	39,859
+Yates	24,913
+Alamance	 North Carolina	169,509
+Alexander	37,497
+Alleghany	10,939
+Anson	26,161
+Ashe	27,151
+Avery	17,713
+Beaufort	46,994
+Bertie	20,344
+Bladen	34,843
+Brunswick	142,820
+Buncombe	261,191
+Burke	90,485
+Cabarrus	216,453
+Caldwell	82,178
+Camden	10,187
+Carteret	69,743
+Caswell	23,190
+Catawba	159,551
+Chatham	74,470
+Cherokee	27,218
+Chowan	14,726
+Clay	10,584
+Cleveland	97,947
+Columbus	55,508
+Craven	102,139
+Cumberland	335,509
+Currituck	24,396
+Dare	35,019
+Davidson	167,609
+Davie	42,846
+Duplin	58,741
+Durham	321,488
+Edgecombe	51,472
+Forsyth	382,295
+Franklin	69,685
+Gaston	224,529
+Gates	11,650
+Graham	8,736
+Granville	60,443
+Greene	21,232
+Guilford	537,174
+Halifax	50,010
+Harnett	135,976
+Haywood	62,317
+Henderson	117,417
+Hertford	24,431
+Hoke	55,234
+Hyde	5,721
+Iredell	181,806
+Jackson	43,938
+Johnston	209,339
+Jones	10,215
+Lee	61,779
+Lenoir	55,949
+Lincoln	86,111
+McDowell	45,756
+Macon	33,857
+Madison	21,022
+Martin	23,699
+Mecklenburg	1,110,356
+Mitchell	15,328
+Montgomery	27,571
+Moore	100,880
+Nash	94,298
+New Hanover	234,473
+Northampton	20,839
+Onslow	197,938
+Orange	148,476
+Pamlico	12,953
+Pasquotank	39,824
+Pender	63,060
+Perquimans	13,601
+Person	39,490
+Pitt	180,742
+Polk	20,411
+Randolph	143,667
+Richmond	44,829
+Robeson	130,625
+Rockingham	91,010
+Rowan	142,088
+Rutherford	67,029
+Sampson	63,531
+Scotland	36,025
+Stanly	62,806
+Stokes	45,591
+Surry	71,783
+Swain	14,058
+Transylvania	32,903
+Tyrrell	4,109
+Union	239,859
+Vance	44,535
+Wake	1,111,761
+Warren	20,575
+Washington	12,722
+Watauga	56,177
+Wayne	123,131
+Wilkes	68,412
+Wilson	81,801
+Yadkin	37,667
+Yancey	17,566
+Adams	 North Dakota	2,360
+Barnes	11,190
+Benson	6,877
+Billings	874
+Bottineau	6,736
+Bowman	3,214
+Burke	2,306
+Burleigh	95,626
+Cass	181,923
+Cavalier	3,896
+Dickey	5,248
+Divide	2,314
+Dunn	4,162
+Eddy	2,404
+Emmons	3,486
+Foster	3,366
+Golden Valley	1,823
+Grand Forks	69,451
+Grant	2,377
+Griggs	2,296
+Hettinger	2,660
+Kidder	2,428
+LaMoure	4,166
+Logan	1,946
+McHenry	5,922
+McIntosh	2,754
+McKenzie	9,314
+McLean	9,517
+Mercer	8,592
+Morton	28,990
+Mountrail	9,376
+Nelson	3,095
+Oliver	1,874
+Pembina	7,181
+Pierce	4,451
+Ramsey	11,554
+Ransom	5,516
+Renville	2,608
+Richland	16,339
+Rolette	14,582
+Sargent	3,890
+Sheridan	1,304
+Sioux	4,430
+Slope	761
+Stark	28,212
+Steele	1,960
+Stutsman	21,120
+Towner	2,317
+Traill	8,245
+Walsh	11,104
+Ward	67,641
+Wells	4,206
+Williams	29,595
+Northern Islands Municipality[9]	 Northern Mariana Islands	0
+Rota Municipality	2,477
+Saipan Municipality	48,220
+Tinian Municipality	3,136
+Adams	 Ohio	27,698
+Allen	102,351
+Ashland	53,484
+Ashtabula	97,241
+Athens	65,327
+Auglaize	45,656
+Belmont	67,006
+Brown	43,432
+Butler	383,134
+Carroll	26,914
+Champaign	38,885
+Clark	134,585
+Clermont	206,428
+Clinton	41,968
+Columbiana	101,883
+Coshocton	36,600
+Crawford	41,494
+Cuyahoga	1,235,072
+Darke	51,113
+Defiance	38,087
+Delaware	209,177
+Erie	74,266
+Fairfield	157,574
+Fayette	28,525
+Franklin	1,316,756
+Fulton	42,126
+Gallia	29,898
+Geauga	93,649
+Greene	168,937
+Guernsey	38,875
+Hamilton	817,473
+Hancock	75,783
+Hardin	31,365
+Harrison	15,040
+Henry	27,006
+Highland	43,161
+Hocking	28,264
+Holmes	43,960
+Huron	58,266
+Jackson	32,413
+Jefferson	65,325
+Knox	62,322
+Lake	230,149
+Lawrence	59,463
+Licking	176,862
+Logan	45,672
+Lorain	309,833
+Lucas	428,348
+Madison	44,731
+Mahoning	228,683
+Marion	65,093
+Medina	179,746
+Meigs	22,907
+Mercer	41,172
+Miami	106,987
+Monroe	13,654
+Montgomery	531,687
+Morgan	14,508
+Morrow	35,328
+Muskingum	86,215
+Noble	14,424
+Ottawa	40,525
+Paulding	18,672
+Perry	36,134
+Pickaway	58,457
+Pike	27,772
+Portage	162,466
+Preble	40,882
+Putnam	33,861
+Richland	121,154
+Ross	76,666
+Sandusky	58,518
+Scioto	75,314
+Seneca	55,178
+Shelby	48,590
+Stark	370,606
+Summit	541,013
+Trumbull	197,974
+Tuscarawas	91,987
+Union	58,988
+Van Wert	28,275
+Vinton	13,085
+Warren	234,602
+Washington	59,911
+Wayne	115,710
+Williams	36,692
+Wood	130,817
+Wyandot	21,772
+Adair	 Oklahoma	22,194
+Alfalfa	5,847
+Atoka	13,898
+Beaver	5,566
+Beckham	23,637
+Blaine	9,720
+Bryan	47,995
+Caddo	29,594
+Canadian	148,306
+Carter	48,111
+Cherokee	48,657
+Choctaw	15,045
+Cimarron	2,335
+Cleveland	284,014
+Coal	5,867
+Comanche	120,749
+Cotton	6,152
+Craig	14,672
+Creek	71,522
+Custer	29,377
+Delaware	43,009
+Dewey	4,844
+Ellis	4,170
+Garfield	61,056
+Garvin	27,334
+Grady	55,834
+Grant	4,528
+Greer	6,171
+Harmon	2,869
+Harper	3,813
+Haskell	13,052
+Hughes	13,823
+Jackson	26,088
+Jefferson	6,432
+Johnston	10,990
+Kay	43,538
+Kingfisher	15,276
+Kiowa	9,341
+Latimer	10,775
+Le Flore	49,853
+Lincoln	34,351
+Logan	48,011
+Love	9,742
+McClain	36,511
+McCurtain	33,065
+McIntosh	20,493
+Major	7,683
+Marshall	15,988
+Mayes	41,100
+Murray	13,712
+Muskogee	67,997
+Noble	11,446
+Nowata	10,555
+Okfuskee	12,377
+Oklahoma	797,434
+Okmulgee	38,465
+Osage	46,963
+Ottawa	32,245
+Pawnee	16,513
+Payne	81,784
+Pittsburg	43,654
+Pontotoc	38,284
+Pottawatomie	72,592
+Pushmataha	11,233
+Roger Mills	3,743
+Rogers	92,459
+Seminole	25,426
+Sequoyah	41,569
+Stephens	43,143
+Texas	22,081
+Tillman	7,711
+Tulsa	651,552
+Wagoner	81,289
+Washington	51,527
+Washita	11,678
+Woods	9,041
+Woodward	21,221
+Baker	 Oregon	16,018
+Benton	93,053
+Clackamas	418,187
+Clatsop	37,244
+Columbia	52,354
+Coos	64,487
+Crook	20,815
+Curry	22,339
+Deschutes	197,692
+Douglas	110,980
+Gilliam	1,947
+Grant	7,283
+Harney	7,146
+Hood River	22,675
+Jackson	220,944
+Jefferson	21,145
+Josephine	87,487
+Klamath	68,238
+Lake	7,820
+Lane	382,067
+Lincoln	49,962
+Linn	129,749
+Malheur	30,479
+Marion	347,818
+Morrow	11,336
+Multnomah	812,855
+Polk	86,085
+Sherman	1,731
+Tillamook	25,317
+Umatilla	77,950
+Union	25,652
+Wallowa	6,814
+Wasco	25,477
+Washington	601,592
+Wheeler	1,381
+Yamhill	107,100
+Adams	 Pennsylvania	103,009
+Allegheny	1,216,045
+Armstrong	64,735
+Beaver	163,929
+Bedford	47,888
+Berks	421,164
+Blair	121,829
+Bradford	60,323
+Bucks	628,270
+Butler	187,853
+Cambria	130,192
+Cameron	4,886
+Carbon	64,182
+Centre	162,385
+Chester	524,989
+Clarion	38,438
+Clearfield	79,255
+Clinton	38,632
+Columbia	64,964
+Crawford	84,629
+Cumberland	253,370
+Dauphin	278,299
+Delaware	566,747
+Elk	31,479
+Erie	269,728
+Fayette	129,274
+Forest	7,631
+Franklin	155,027
+Fulton	14,670
+Greene	36,233
+Huntingdon	45,144
+Indiana	84,073
+Jefferson	43,425
+Juniata	24,768
+Lackawanna	209,674
+Lancaster	545,724
+Lawrence	85,512
+Lebanon	141,793
+Lehigh	369,318
+Luzerne	317,417
+Lycoming	113,299
+McKean	40,625
+Mercer	109,424
+Mifflin	46,138
+Monroe	170,271
+Montgomery	830,915
+Montour	18,541
+Northampton	305,285
+Northumberland	90,843
+Perry	46,272
+Philadelphia[w]	1,584,064
+Pike	55,809
+Potter	17,497
+Schuylkill	141,359
+Snyder	40,372
+Somerset	73,447
+Sullivan	6,351
+Susquehanna	40,328
+Tioga	40,591
+Union	44,923
+Venango	50,668
+Warren	39,191
+Washington	206,865
+Wayne	51,361
+Westmoreland	348,899
+Wyoming	28,003
+York	449,058
+Adjuntas Municipality	 Puerto Rico	19,483
+Aguada Municipality	41,959
+Aguadilla Municipality	54,582
+Aguas Buenas Municipality	28,659
+Aibonito Municipality	25,900
+Añasco Municipality	29,261
+Arecibo Municipality	96,440
+Arroyo Municipality	19,575
+Barceloneta Municipality	24,816
+Barranquitas Municipality	30,318
+Bayamón Municipality	208,116
+Cabo Rojo Municipality	50,917
+Caguas Municipality	142,893
+Camuy Municipality	35,159
+Canóvanas Municipality	47,648
+Carolina Municipality	176,762
+Cataño Municipality	28,140
+Cayey Municipality	48,119
+Ceiba Municipality	13,631
+Ciales Municipality	18,782
+Cidra Municipality	43,480
+Coamo Municipality	40,512
+Comerío Municipality	20,778
+Corozal Municipality	37,142
+Culebra Municipality	1,818
+Dorado Municipality	38,165
+Fajardo Municipality	36,993
+Florida Municipality	12,680
+Guánica Municipality	19,427
+Guayama Municipality	45,362
+Guayanilla Municipality	21,581
+Guaynabo Municipality	97,924
+Gurabo Municipality	45,369
+Hatillo Municipality	41,953
+Hormigueros Municipality	17,250
+Humacao Municipality	58,466
+Isabela Municipality	45,631
+Jayuya Municipality	16,642
+Juana Díaz Municipality	79,897
+Juncos Municipality	40,290
+Lajas Municipality	25,753
+Lares Municipality	30,753
+Las Marías Municipality	9,881
+Las Piedras Municipality	38,675
+Loíza Municipality	30,060
+Luquillo Municipality	20,068
+Manatí Municipality	44,113
+Maricao Municipality	6,276
+Maunabo Municipality	12,225
+Mayagüez Municipality	89,080
+Moca Municipality	40,109
+Morovis Municipality	32,610
+Naguabo Municipality	26,720
+Naranjito Municipality	30,402
+Orocovis Municipality	23,423
+Patillas Municipality	19,277
+Peñuelas Municipality	24,282
+Ponce Municipality	166,327
+Quebradillas Municipality	25,919
+Rincón Municipality	15,200
+Río Grande Municipality	54,304
+Sabana Grande Municipality	25,265
+Salinas Municipality	31,078
+San Germán Municipality	35,527
+San Juan Municipality	395,326
+San Lorenzo Municipality	41,058
+San Sebastián Municipality	42,430
+Santa Isabel Municipality	23,274
+Toa Alta Municipality	74,066
+Toa Baja Municipality	89,609
+Trujillo Alto Municipality	74,842
+Utuado Municipality	33,149
+Vega Alta Municipality	39,951
+Vega Baja Municipality	59,662
+Vieques Municipality	9,301
+Villalba Municipality	26,073
+Yabucoa Municipality	37,941
+Yauco Municipality	42,043
+Bristol[n]	 Rhode Island	48,479
+Kent[n]	164,292
+Newport[n]	82,082
+Providence[n]	638,931
+Washington[n]	125,577
+Abbeville	 South Carolina	25,007
+Aiken	170,872
+Allendale	9,839
+Anderson	202,558
+Bamberg	15,430
+Barnwell	22,119
+Beaufort	192,122
+Berkeley	227,907
+Calhoun	15,055
+Charleston	411,406
+Cherokee	57,300
+Chester	32,578
+Chesterfield	45,650
+Clarendon	34,355
+Colleton	37,677
+Darlington	66,618
+Dillon	31,229
+Dorchester	162,809
+Edgefield	26,436
+Fairfield	23,109
+Florence	138,293
+Georgetown	62,680
+Greenville	523,542
+Greenwood	70,811
+Hampton	20,408
+Horry	354,081
+Jasper	26,629
+Kershaw	66,551
+Lancaster	98,012
+Laurens	67,493
+Lee	18,347
+Lexington	298,750
+McCormick	9,947
+Marion	32,072
+Marlboro	28,003
+Newberry	38,440
+Oconee	79,546
+Orangeburg	86,175
+Pickens	126,884
+Richland	415,759
+Saluda	20,091
+Spartanburg	319,785
+Sumter	106,721
+Union	28,030
+Williamsburg	33,067
+York	280,979
+Aurora	 South Dakota	2,720
+Beadle	18,080
+Bennett	3,452
+Bon Homme	7,046
+Brookings	32,968
+Brown	38,839
+Brule	5,366
+Buffalo	2,024
+Butte	10,330
+Campbell	1,334
+Charles Mix	9,241
+Clark	3,610
+Clay	13,935
+Codington	27,853
+Corson	4,215
+Custer	8,468
+Davison	19,823
+Day	5,596
+Deuel	4,320
+Dewey	5,586
+Douglas	3,023
+Edmunds	4,041
+Fall River	6,839
+Faulk	2,386
+Grant	7,281
+Gregory	4,242
+Haakon	1,894
+Hamlin	5,961
+Hand	3,391
+Hanson	3,405
+Harding	1,262
+Hughes	17,508
+Hutchinson	7,145
+Hyde	1,391
+Jackson	3,216
+Jerauld	2,066
+Jones	1,001
+Kingsbury	5,065
+Lake	12,055
+Lawrence	24,910
+Lincoln	61,128
+Lyman	3,892
+McCook	5,654
+McPherson	2,457
+Marshall	4,763
+Meade	27,202
+Mellette	2,081
+Miner	2,333
+Minnehaha	193,134
+Moody	6,404
+Oglala Lakota	14,118
+Pennington	113,775
+Perkins	3,037
+Potter	2,394
+Roberts	10,251
+Sanborn	2,324
+Spink	6,610
+Stanley	2,981
+Sully	1,437
+Todd	9,982
+Tripp	5,498
+Turner	8,361
+Union	14,829
+Walworth	5,524
+Yankton	22,696
+Ziebach	2,834
+Anderson	 Tennessee	76,978
+Bedford	49,713
+Benton	16,290
+Bledsoe	12,841
+Blount	133,088
+Bradley	108,110
+Campbell	39,842
+Cannon	13,775
+Carroll	28,513
+Carter	56,391
+Cheatham	40,667
+Chester	17,321
+Claiborne	31,560
+Clay	7,774
+Cocke	35,479
+Coffee	56,520
+Crockett	14,591
+Cumberland	60,520
+Davidson	694,144
+Decatur	11,661
+DeKalb	19,164
+Dickson	53,948
+Dyer	37,159
+Fayette	41,133
+Fentress	17,909
+Franklin	42,208
+Gibson	49,133
+Giles	28,746
+Grainger	22,702
+Greene	69,069
+Grundy	13,498
+Hamblen	64,934
+Hamilton	367,804
+Hancock	6,679
+Hardeman	26,306
+Hardin	26,034
+Hawkins	56,786
+Haywood	18,224
+Henderson	28,048
+Henry	32,210
+Hickman	24,267
+Houston	8,292
+Humphreys	18,243
+Jackson	11,517
+Jefferson	54,495
+Johnson	17,977
+Knox	470,313
+Lake	7,731
+Lauderdale	27,795
+Lawrence	44,142
+Lewis	11,961
+Lincoln	33,633
+Loudon	54,068
+McMinn	53,794
+McNairy	26,140
+Macon	22,701
+Madison	97,984
+Marion	28,374
+Marshall	31,130
+Maury	96,387
+Meigs	11,649
+Monroe	46,545
+Montgomery	208,993
+Moore	6,301
+Morgan	21,915
+Obion	31,131
+Overton	22,075
+Perry	7,869
+Pickett	5,090
+Polk	16,690
+Putnam	80,245
+Rhea	32,513
+Roane	53,382
+Robertson	71,813
+Rutherford	332,285
+Scott	22,015
+Sequatchie	14,681
+Sevier	98,250
+Shelby	937,166
+Smith	19,074
+Stewart	13,362
+Sullivan	158,348
+Sumner	191,283
+Tipton	61,599
+Trousdale	7,828
+Unicoi	18,082
+Union	19,102
+Van Buren	5,583
+Warren	41,277
+Washington	129,375
+Wayne	16,939
+Weakley	34,450
+White	26,244
+Williamson	238,412
+Wilson	144,657
+Anderson	 Texas	57,735
+Andrews	16,799
+Angelina	86,715
+Aransas	24,356
+Archer	8,681
+Armstrong	1,949
+Atascosa	51,153
+Austin	28,847
+Bailey	7,114
+Bandera	20,601
+Bastrop	88,723
+Baylor	3,614
+Bee	32,799
+Bell	362,924
+Bexar	2,003,554
+Blanco	10,723
+Borden	637
+Bosque	17,855
+Bowie	93,245
+Brazoria	374,264
+Brazos	229,211
+Brewster	9,286
+Briscoe	1,537
+Brooks	7,237
+Brown	37,864
+Burleson	17,169
+Burnet	48,155
+Caldwell	43,664
+Calhoun	21,806
+Callahan	13,525
+Cameron	423,163
+Camp	12,413
+Carson	6,010
+Cass	30,331
+Castro	8,030
+Chambers	36,812
+Cherokee	52,646
+Childress	7,095
+Clay	10,473
+Cochran	3,016
+Coke	3,210
+Coleman	8,543
+Collin	1,034,730
+Collingsworth	3,099
+Colorado	20,752
+Comal	156,209
+Comanche	13,623
+Concho	4,043
+Cooke	41,257
+Coryell	75,951
+Cottle	1,452
+Crane	4,773
+Crockett	3,807
+Crosby	5,991
+Culberson	2,277
+Dallam	7,057
+Dallas	2,635,516
+Dawson	13,810
+Deaf Smith	19,177
+Delta	5,238
+Denton	887,207
+DeWitt	20,503
+Dickens	2,291
+Dimmit	10,897
+Donley	3,522
+Duval	11,640
+Eastland	18,245
+Ector	166,223
+Edwards	1,884
+Ellis	184,826
+El Paso	839,238
+Erath	42,698
+Falls	17,493
+Fannin	33,659
+Fayette	24,821
+Fisher	3,856
+Floyd	6,230
+Foard	1,277
+Fort Bend	811,688
+Franklin	10,660
+Freestone	19,646
+Frio	18,065
+Gaines	18,921
+Galveston	342,139
+Garza	6,317
+Gillespie	25,357
+Glasscock	1,251
+Goliad	7,465
+Gonzales	20,312
+Gray	23,043
+Grayson	136,212
+Gregg	123,945
+Grimes	26,859
+Guadalupe	166,847
+Hale	35,764
+Hall	3,239
+Hamilton	8,310
+Hansford	5,555
+Hardeman	4,016
+Hardin	57,602
+Harris	4,713,325
+Harrison	66,553
+Hartley	6,100
+Haskell	5,875
+Hays	230,191
+Hemphill	4,158
+Henderson	82,737
+Hidalgo	868,707
+Hill	34,823
+Hockley	23,530
+Hood	61,643
+Hopkins	35,565
+Houston	22,911
+Howard	36,147
+Hudspeth	3,318
+Hunt	98,594
+Hutchinson	21,819
+Irion	1,612
+Jack	8,957
+Jackson	14,591
+Jasper	35,649
+Jeff Davis	2,253
+Jefferson	251,565
+Jim Hogg	5,245
+Jim Wells	40,482
+Johnson	175,817
+Jones	19,859
+Karnes	15,081
+Kaufman	136,154
+Kendall	47,431
+Kenedy	412
+Kent	807
+Kerr	52,600
+Kimble	4,481
+King	285
+Kinney	3,586
+Kleberg	32,101
+Knox	3,767
+Lamar	49,859
+Lamb	13,775
+Lampasas	20,222
+La Salle	7,369
+Lavaca	19,581
+Lee	16,628
+Leon	16,742
+Liberty	88,219
+Limestone	23,326
+Lipscomb	3,485
+Live Oak	11,867
+Llano	19,444
+Loving	169
+Lubbock	310,569
+Lynn	5,723
+McCulloch	8,330
+McLennan	256,623
+McMullen	764
+Madison	13,781
+Marion	10,235
+Martin	5,312
+Mason	4,128
+Matagorda	36,592
+Maverick	58,722
+Medina	51,584
+Menard	2,148
+Midland	176,832
+Milam	24,167
+Mills	4,907
+Mitchell	9,402
+Montague	19,503
+Montgomery	607,391
+Moore	22,141
+Morris	12,834
+Motley	1,196
+Nacogdoches	65,204
+Navarro	50,113
+Newton	14,140
+Nolan	15,037
+Nueces	362,294
+Ochiltree	10,806
+Oldham	2,102
+Orange	83,396
+Palo Pinto	27,889
+Panola	23,870
+Parker	142,878
+Parmer	9,965
+Pecos	15,697
+Polk	51,353
+Potter	117,415
+Presidio	7,201
+Rains	11,065
+Randall	137,713
+Reagan	3,601
+Real	3,350
+Red River	12,470
+Reeves	13,965
+Refugio	7,305
+Roberts	831
+Robertson	16,486
+Rockwall	104,915
+Runnels	10,309
+Rusk	54,406
+Sabine	10,361
+San Augustine	8,769
+San Jacinto	26,856
+San Patricio	66,730
+San Saba	6,012
+Schleicher	3,206
+Scurry	17,302
+Shackelford	3,375
+Shelby	25,792
+Sherman	3,093
+Smith	232,751
+Somervell	8,658
+Starr	64,633
+Stephens	9,247
+Sterling	1,219
+Stonewall	1,432
+Sutton	4,006
+Swisher	7,763
+Tarrant	2,102,515
+Taylor	138,034
+Terrell	903
+Terry	12,743
+Throckmorton	1,600
+Titus	32,581
+Tom Green	119,200
+Travis	1,273,954
+Trinity	14,393
+Tyler	21,464
+Upshur	41,753
+Upton	3,372
+Uvalde	26,926
+Val Verde	49,025
+Van Zandt	56,590
+Victoria	92,084
+Walker	72,971
+Waller	55,246
+Ward	11,244
+Washington	34,147
+Webb	276,652
+Wharton	41,556
+Wheeler	5,751
+Wichita	132,230
+Wilbarger	13,131
+Willacy	21,921
+Williamson	590,551
+Wilson	51,070
+Winkler	7,606
+Wise	69,984
+Wood	45,539
+Yoakum	8,184
+Young	18,341
+Zapata	14,390
+Zavala	12,156
+Bajo Nuevo Bank[x][y]	United States U.S. Minor Outlying Islands	0
+Baker Island[8][x]	0
+Howland Island[x]	0
+Jarvis Island[x]	0
+Johnston Atoll[x]	0
+Kingman Reef[x]	0
+Midway Islands[x]	40
+Navassa Island[x]	0
+Palmyra Atoll[x]	20
+Serranilla Bank[x][y]	0
+Wake Island[x]	100
+Beaver	 Utah	6,459
+Box Elder	56,046
+Cache	128,289
+Carbon	20,988
+Daggett	1,127
+Davis	355,481
+Duchesne	20,308
+Emery	10,749
+Garfield	5,083
+Grand	9,360
+Iron	54,839
+Juab	10,348
+Kane	7,260
+Millard	12,662
+Morgan	10,173
+Piute	1,510
+Rich	2,288
+Salt Lake	1,160,437
+San Juan	14,973
+Sanpete	28,237
+Sevier	20,852
+Summit	42,145
+Tooele	72,259
+Uintah	35,555
+Utah	636,235
+Wasatch	26,437
+Washington	177,556
+Wayne	2,747
+Weber	260,213
+Addison	 Vermont	36,791
+Bennington	36,659
+Caledonia	31,157
+Chittenden	163,774
+Essex	6,211
+Franklin	49,402
+Grand Isle	6,987
+Lamoille	25,067
+Orange	28,915
+Orleans	27,169
+Rutland	58,191
+Washington	58,409
+Windham	42,222
+Windsor	55,062
+Saint Croix Island[9]	United States Virgin Islands Virgin Islands (U.S.)	50,601
+Saint John Island	4,170
+Saint Thomas Island	51,634
+Accomack	 Virginia	33,148
+Albemarle	109,330
+Alleghany	16,161
+Amelia	12,745
+Amherst	32,178
+Appomattox	15,255
+Arlington	236,842
+Augusta	75,558
+Bath	4,616
+Bedford[z]	78,997
+Bland	6,735
+Botetourt	33,002
+Brunswick	16,973
+Buchanan	23,597
+Buckingham	17,136
+Campbell	54,885
+Caroline	29,298
+Carroll	29,883
+Charles City	7,130
+Charlotte	12,305
+Chesterfield	352,802
+Clarke	14,348
+Craig	5,210
+Culpeper	52,605
+Cumberland	9,841
+Dickenson	15,486
+Dinwiddie	27,904
+Essex	11,229
+Fairfax	1,147,532
+Fauquier	71,222
+Floyd	15,528
+Fluvanna	25,977
+Franklin	56,042
+Frederick	89,313
+Giles	16,925
+Gloucester	36,834
+Goochland	21,626
+Grayson	15,161
+Greene	18,804
+Greensville	11,886
+Halifax	35,401
+Hanover	107,766
+Henrico	330,818
+Henry	50,557
+Highland	2,215
+Isle of Wight	35,656
+James City	76,523
+King and Queen	7,130
+King George	24,926
+King William	16,097
+Lancaster	11,148
+Lee	25,185
+Loudoun	413,538
+Louisa	33,945
+Lunenburg	12,527
+Madison	13,200
+Mathews	8,897
+Mecklenburg	31,426
+Middlesex	10,762
+Montgomery	98,535
+Nelson	14,789
+New Kent	19,507
+Northampton	12,125
+Northumberland	12,200
+Nottoway	15,773
+Orange	34,689
+Page	23,821
+Patrick	18,368
+Pittsylvania	60,354
+Powhatan	28,259
+Prince Edward	22,802
+Prince George	37,253
+Prince William	470,335
+Pulaski	34,507
+Rappahannock	7,478
+Richmond	8,953
+Roanoke	94,186
+Rockbridge	22,307
+Rockingham	81,948
+Russell	28,264
+Scott	22,640
+Shenandoah	43,616
+Smyth	31,652
+Southampton	18,128
+Spotsylvania	136,215
+Stafford	152,882
+Surry	6,765
+Sussex	11,810
+Tazewell	40,595
+Warren	40,164
+Washington	53,740
+Westmoreland	17,612
+Wise	37,383
+Wythe	29,344
+York	68,280
+Alexandria, City of[aa]	159,428
+Bristol, City of[aa]	17,341
+Buena Vista, City of[aa]	6,680
+Charlottesville, City of[aa]	47,266
+Chesapeake, City of[aa]	244,835
+Colonial Heights, City of[aa]	17,634
+Covington, City of[aa]	5,818
+Danville, City of[aa]	40,044
+Emporia, City of[aa]	5,588
+Fairfax, City of[aa]	23,973
+Falls Church, City of[aa]	13,508
+Franklin, City of[aa]	8,638
+Fredericksburg, City of[aa]	28,132
+Galax, City of[aa]	7,035
+Hampton, City of[aa]	134,510
+Harrisonburg, City of[aa]	53,016
+Hopewell, City of[aa]	22,163
+Lexington, City of[aa]	7,170
+Lynchburg, City of[aa]	82,168
+Manassas, City of[aa]	41,085
+Manassas Park, City of[aa]	16,149
+Martinsville, City of[aa]	13,755
+Newport News, City of[aa]	179,225
+Norfolk, City of[aa]	242,742
+Norton, City of[aa]	4,017
+Petersburg, City of[aa]	32,538
+Poquoson, City of[aa]	12,104
+Portsmouth, City of[aa]	94,398
+Radford, City of[aa]	17,184
+Richmond, City of[aa]	230,436
+Roanoke, City of[aa]	99,143
+Salem, City of[aa]	25,299
+Staunton, City of[aa]	24,350
+Suffolk, City of[aa]	92,108
+Virginia Beach, City of[aa]	449,974
+Waynesboro, City of[aa]	21,263
+Williamsburg, City of[aa]	15,206
+Winchester, City of[aa]	27,216
+Adams	Washington (state) Washington	19,067
+Asotin	22,110
+Benton	204,390
+Chelan	77,200
+Clallam	77,331
+Clark	488,241
+Columbia	4,032
+Cowlitz	110,593
+Douglas	43,429
+Ferry	7,646
+Franklin	95,222
+Garfield	2,256
+Grant	97,733
+Grays Harbor	75,061
+Island	85,141
+Jefferson	30,076
+King	2,252,782
+Kitsap	271,473
+Kittitas	47,935
+Klickitat	20,866
+Lewis	80,707
+Lincoln	10,301
+Mason	66,768
+Okanogan	42,243
+Pacific	20,498
+Pend Oreille	12,896
+Pierce	904,980
+San Juan	15,875
+Skagit	129,205
+Skamania	11,274
+Snohomish	822,083
+Spokane	522,798
+Stevens	45,723
+Thurston	290,536
+Wahkiakum	4,042
+Walla Walla	60,760
+Whatcom	229,247
+Whitman	50,104
+Yakima	250,873
+Barbour	 West Virginia	16,770
+Berkeley	119,171
+Boone	24,224
+Braxton	14,502
+Brooke	23,737
+Cabell	91,945
+Calhoun	7,564
+Clay	9,244
+Doddridge	8,344
+Fayette	42,406
+Gilmer	8,672
+Grant	11,759
+Greenbrier	35,644
+Hampshire	23,445
+Hancock	30,291
+Hardy	13,920
+Harrison	67,256
+Jackson	29,178
+Jefferson	57,146
+Kanawha	178,124
+Lewis	16,452
+Lincoln	21,559
+Logan	35,987
+McDowell	20,876
+Marion	56,072
+Marshall	32,459
+Mason	27,126
+Mercer	58,758
+Mineral	27,704
+Mingo	25,900
+Monongalia	105,612
+Monroe	13,483
+Morgan	17,498
+Nicholas	25,965
+Ohio	41,411
+Pendleton	7,471
+Pleasants	7,577
+Pocahontas	8,669
+Preston	33,859
+Putnam	56,450
+Raleigh	73,361
+Randolph	29,415
+Ritchie	10,073
+Roane	14,656
+Summers	13,563
+Taylor	16,973
+Tucker	6,968
+Tyler	8,995
+Upshur	24,665
+Wayne	39,402
+Webster	8,893
+Wetzel	16,204
+Wirt	5,901
+Wood	83,518
+Wyoming	23,019
+Adams	 Wisconsin	20,480
+Ashland	16,016
+Barron	45,244
+Bayfield	15,156
+Brown	264,542
+Buffalo	13,357
+Burnett	15,333
+Calumet	50,089
+Chippewa	64,658
+Clark	34,615
+Columbia	57,532
+Crawford	16,397
+Dane	546,695
+Dodge	87,839
+Door	27,896
+Douglas	43,150
+Dunn	45,368
+Eau Claire	104,646
+Florence	4,520
+Fond du Lac	103,403
+Forest	9,126
+Grant	51,439
+Green	37,090
+Green Lake	18,959
+Iowa	23,749
+Iron	5,886
+Jackson	20,644
+Jefferson	84,769
+Juneau	26,547
+Kenosha	169,561
+Kewaunee	20,505
+La Crosse	118,016
+Lafayette	16,766
+Langlade	19,575
+Lincoln	28,684
+Manitowoc	78,981
+Marathon	135,692
+Marinette	40,350
+Marquette	15,176
+Menominee	4,317
+Milwaukee	945,726
+Monroe	46,253
+Oconto	37,930
+Oneida	35,689
+Outagamie	187,885
+Ozaukee	89,221
+Pepin	7,360
+Pierce	42,754
+Polk	43,783
+Portage	70,772
+Price	13,802
+Racine	196,311
+Richland	17,717
+Rock	163,354
+Rusk	14,395
+St. Croix	90,687
+Sauk	64,442
+Sawyer	16,513
+Shawano	40,899
+Sheboygan	115,340
+Taylor	20,610
+Trempealeau	29,582
+Vernon	30,329
+Vilas	21,368
+Walworth	103,868
+Washburn	15,686
+Washington	136,034
+Waukesha	404,198
+Waupaca	50,990
+Waushara	24,329
+Winnebago	171,907
+Wood	72,999
+Albany	 Wyoming	38,880
+Big Horn	11,790
+Campbell	46,341
+Carbon	14,800
+Converse	13,822
+Crook	7,584
+Fremont	39,261
+Goshen	13,211
+Hot Springs	4,413
+Johnson	8,445
+Laramie	99,500
+Lincoln	19,830
+Natrona	79,858
+Niobrara	2,356
+Park	29,194
+Platte	8,393
+Sheridan	30,485
+Sublette	9,831
+Sweetwater	42,343
+Teton	23,464
+Uinta	20,226
+Washakie	7,805
+Weston	6,927

@@ -1,2 +1,3 @@
-# CoolMaps
-Repository of different maps of the world 
+# CoolMaps  
+
+Repository of different maps of the world
